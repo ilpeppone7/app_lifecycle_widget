@@ -1,3 +1,4 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+* Initial Release
+* Features: a widget that emulates the lifecycle of an Activity/ViewController of mobile platforms
