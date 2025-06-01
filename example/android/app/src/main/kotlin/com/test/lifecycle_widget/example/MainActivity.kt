@@ -1,4 +1,4 @@
-package com.test.lifecycle_widget.example
+package com.test.app_lifecycle_widget.example
 
 import io.flutter.embedding.android.FlutterActivity
 

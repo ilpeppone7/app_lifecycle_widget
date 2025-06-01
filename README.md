@@ -43,7 +43,7 @@ class MyApp extends StatelessWidget {
 By wrapping your page in the **LifecycleWidget**, you can provide callback function to each event available.
 
 ```dart
-import 'package:lifecycle_widget/lifecycle_widget.dart';
+import 'package:app_lifecycle_widget/app_lifecycle_widget.dart';
 
 ...
 

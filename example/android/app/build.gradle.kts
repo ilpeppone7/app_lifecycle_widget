@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.test.lifecycle_widget.example"
+    namespace = "com.test.app_lifecycle_widget.example"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +21,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.test.lifecycle_widget.example"
+        applicationId = "com.test.app_lifecycle_widget.example"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

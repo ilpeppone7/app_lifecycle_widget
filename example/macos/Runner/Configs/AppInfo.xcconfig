@@ -11,4 +11,4 @@ PRODUCT_NAME = example
 PRODUCT_BUNDLE_IDENTIFIER = com.test.lifecyclewidget.example
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2025 com.test.lifecycle_widget. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2025 com.test.app_lifecycle_widget. All rights reserved.
