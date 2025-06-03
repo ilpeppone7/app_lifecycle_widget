@@ -1,8 +1,8 @@
 name: app_lifecycle_widget
 description: "A widget that emulates the lifecycle of an Activity/ViewController of mobile platforms"
-version: 1.0.0
-homepage: https://github.com/ilpeppone7/app_lifecycle_widget.git
-repository: https://github.com/ilpeppone7/app_lifecycle_widget.git
+version: 1.0.0+1
+homepage: https://github.com/ilpeppone7/app_lifecycle_widget
+repository: https://github.com/ilpeppone7/app_lifecycle_widget/tree/main/app_lifecycle_widget
 issue_tracker: https://github.com/ilpeppone7/app_lifecycle_widget/issues
 topics:
   - flutter
