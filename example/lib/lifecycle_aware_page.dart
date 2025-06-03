@@ -1,6 +1,6 @@
 import 'package:example/utils.dart';
 import 'package:flutter/material.dart';
-import 'package:lifecycle_widget/lifecycle_widget.dart';
+import 'package:app_lifecycle_widget/app_lifecycle_widget.dart';
 
 class LifecycleAwarePage extends StatefulWidget {
   LifecycleAwarePage({super.key}) {
